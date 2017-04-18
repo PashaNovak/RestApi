@@ -1,0 +1,20 @@
+<Tickets>
+  <ticket>
+    <amount>2</amount>
+    <id>342</id>
+    <time>19:00</time>
+    <title>Movie2</title>
+    <cost>6</cost>
+    <places>5,6</places>
+    <date>20.04.2017</date>
+  </ticket>
+  <ticket>
+    <amount>2</amount>
+    <id>281</id>
+    <time>21:00</time>
+    <title>Movie2</title>
+    <cost>6</cost>
+    <places>27,65</places>
+    <date>20.04.2017</date>
+  </ticket>
+</Tickets>

@@ -1,0 +1,20 @@
+<schedule>
+<movie>
+<title>Movie1</title>
+<date>19.04.2017</date>
+<time>18:00 19:00 21:00</time>
+<cost>5</cost>
+</movie>
+<movie>
+<title>Movie2</title>
+<date>20.04.2017</date>
+<time>19:00 21:00</time>
+<cost>6</cost>
+</movie>
+<movie>
+<title>Movie3</title>
+<date>18.04.2017</date>
+<time>17:00 20:00</time>
+<cost>4</cost>
+</movie>
+</schedule>
